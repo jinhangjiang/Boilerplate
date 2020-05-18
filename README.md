@@ -1,2 +1,2 @@
 # Boilerplate
-Calculate Boilerplate and Repetition in R
+Calculate Boilerplate in R
